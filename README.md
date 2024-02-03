@@ -1,2 +1,2 @@
-# Software-for-Avionics-System
-Everything software related to the avionics system
+# basic-Avionics-System
+basic pcb project
